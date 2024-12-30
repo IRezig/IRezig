@@ -36,10 +36,6 @@ Here are some ideas to get you started:
   <a href="https://stackoverflow.com/users/8461373/ibtissam-rezig">
     <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Ibtissem Rezig's Stack Overflow Profile" height="30" width="30">
   </a>
-
-  <a href="https://gitlab.com/rezig">
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Ibtissem Rezig's GitLab Profile" height="30" width="30">
-  </a>
   
   <a href="https://medium.com/@rezig.ibtissem">
     <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="ibtissem rezig's Medium Profile" height="30" width="30">
