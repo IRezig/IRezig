@@ -83,10 +83,6 @@ Here are some ideas to get you started:
 <!-- 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p> -->
 
-<h4 align="center">Profile stats 👩🏼‍🎤</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=irezig&show_icons=true&theme=synthwave" alt="Github Stats" /></p>
-
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
